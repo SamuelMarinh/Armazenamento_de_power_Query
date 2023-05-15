@@ -1,0 +1,60 @@
+CustomerID,Customer,RouteToMarket,CustomerGroup
+1,Unknown,Distributor,Other Foodservice
+2,Deals Pharmacy,Direct to Customer,Deals Pharmacy
+3,Cutprice,Direct to Customer,Other Discounters
+4,Jinko Distribution,Wholesaler,Jinko Distribution
+5,Williams,Direct to Customer,Williams
+6,Oxa,Direct to Customer,Oxa
+7,Prince's Cooperative,Direct to Customer,Prince's Cooperative
+8,Foodship,Direct to Customer,Foodship
+9,Switchco,Direct to Customer,Other Retailers
+10,World's,Wholesaler,World's
+11,Homefood,Distributor,Other Foodservice
+12,Export to Stores,Distributor,Export
+13,Under a pound,Direct to Customer,Other Discounters
+14,£1,Direct to Customer,Other Discounters
+15,Booth's,Direct to Customer,Williams
+16,Body Kare,Direct to Customer,Other Discounters
+17,Other Pharmacy,Direct to Customer,Other Pharmacy
+18,Bulk Buys,Wholesaler,Bulk Buys
+19,Raji's,Direct to Customer,Other Retailers
+20,Other Retailers,Direct to Customer,Other Retailers
+21,Joe's Cash and Carry,Cash & Carry,Cash & Carry
+22,Bridges,Direct to Customer,Other Retailers
+23,Manchester Logistics,Direct to Customer,Other Retailers
+24,Tourism,Distributor,Export
+25,Querox,Direct to Customer,Other Discounters
+26,Nico,Direct to Customer,Other
+27,Zeso,Direct to Customer,Williams
+28,Friends,Direct to Customer,Friends
+29,Fresh to Farm,Direct to Customer,Other Discounters
+30,Pharmacy Wholesale,Wholesaler,Other Pharmacy
+31,GTM,Wholesaler,Wholesalers
+32,Exbourne,Wholesaler,Wholesalers
+33,Trigger,Wholesaler,Wholesalers
+34,PIC,Cash & Carry,Cash & Carry
+35,Wish,Wholesaler,Wish
+36,Export Abroad,Distributor,Export
+37,Sales-To,Wholesaler,Other
+38,Wash & Grow,Wholesaler,Wholesalers
+39,Simu,Direct to Customer,Other Discounters
+40,Trade-terms,Wholesaler,Wholesalers
+41,Poundworld,Wholesaler,Wholesalers
+42,Sellways,Direct to Customer,Other Discounters
+43,Planto,Direct to Customer,Delice
+44,Tribeca,Direct to Customer,Other Discounters
+45,Extra,Direct to Customer,Other Discounters
+46,PharmaFriend,Direct to Customer,PharmaFriend
+47,InckCo,Direct to Customer,InckCo
+48,Fiel,Direct to Customer,Fiel
+49,Delice,Direct to Customer,Delice
+50,Deliver to Door,Direct to Customer,Deliver to Door
+51,Discount Cost,Direct to Customer,Other Discounters
+52,Ishwish,Direct to Customer,Other Retailers
+53,Simple Foods,Wholesaler,Wholesalers
+54,Other Cash & Carry,Cash & Carry,Cash & Carry
+55,Low Ride,Cash & Carry,Cash & Carry
+56,Pathway's,Cash & Carry,Cash & Carry
+57,Pentis,Wholesaler,Other Foodservice
+58,Foodservice UK,Wholesaler,Other Foodservice
+59,Other Wholesaler,Wholesaler,Other

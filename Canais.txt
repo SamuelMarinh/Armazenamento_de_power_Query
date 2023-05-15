@@ -1,0 +1,14 @@
+ChannelID,Channel,ChannelCluster
+1,Convenience:Convenience,Convenience
+2,Petrol Station:Convenience,Convenience
+3,Hypermarket:Hypermarket,Hypermarket
+4,Large Supermarket:Large Supermarket,Supermarket
+5,Wholesale:Wholesale,Wholesale
+6,e-Commerce:e-Commerce,e-Commerce
+7,Discounter:Discounter,Discounter
+8,Small Supermarket:Small Supermarket,Supermarket
+9,Unassigned Channel:Unassigned Channel,Unassigned Channel
+10,CTN/Kiosk/News:Mobile/Vending/Kiosk,On the Move
+11,Vending/Mobile:Mobile/Vending/Kiosk,On the Move
+12,Drugstore:Drugstore,Pharmacy
+13,Pharmacy/Chemist:Pharmacy/Chemist,Pharmacy
